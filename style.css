@@ -1,0 +1,9 @@
+.clickme{
+    min-height: 80px;
+    min-width: 140px;
+}
+.cookieclicker{
+    min-height: 140px;
+    width: 50%;
+    justify-content: center;
+}
